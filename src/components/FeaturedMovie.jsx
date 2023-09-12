@@ -3,16 +3,15 @@ import MoviePoster from "../assets/MoviePoster.png";
 import Rating from "./Rating";
 
 export default function FeaturedMovie() {
-  const [love, setLove] = useState(false);
+  const [love, setLove] = useState(true);
   return (
     <div className='h-[23.1rem] w-[15.6rem]'>
-      <div className=' relative'>
+      <div className='relative'>
         <img
           src={MoviePoster}
           alt='movie'
           className='h-[23.1rem] w-[15.6rem]'
         />
-        {/* <div className='  flex justify-between absolute top-5 px-2'> */}
         <p className='text-gray-900 text-xs font-bold bg-[#F3F4F6] opacity-[50%] py-1 px-2 rounded-xl absolute top-6 left-2'>
           TV SERIES
         </p>
