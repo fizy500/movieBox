@@ -122,7 +122,7 @@ export default function MovieDetails() {
                 <p className='font-normal text-[#333333] text-xl leading-[30px]'>
                   After thirty years, Maverick is still pushing the envelope as
                   a top naval aviator, but must confront ghosts of his past when
-                  he leads TOP GUN's elite graduates on a mission that demands
+                  he leads TOP GUN elite graduates on a mission that demands
                   the ultimate sacrifice from those chosen to fly it.
                 </p>
                 <p className='font-normal text-xl py-2 space-x-2 border-y border-[#E8E8E8] border-opacity-[20%]'>
