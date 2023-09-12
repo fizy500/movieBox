@@ -1,4 +1,4 @@
-import LogoBlack from "./assets/LogoBlackText.svg";
+import LogoBlack from "./assets/LogoBlacktext.svg";
 import Home from "./assets/Home.svg";
 import Movies from "./assets/Movies.svg";
 import Tv from "./assets/Tv.svg";
