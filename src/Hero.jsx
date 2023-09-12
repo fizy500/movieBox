@@ -1,4 +1,4 @@
-import { useState, useEffect } from "react";
+// import { useState, useEffect } from "react";
 
 import { Link } from "react-router-dom";
 import NavBar from "./components/NavBar";
@@ -27,7 +27,7 @@ export default function Hero() {
 
                 <p className='lg:w-[30%] font-medium text-sm '>
                   John Wick is on the run after killing a member of the
-                  international assassins' guild, and with a $14 million price
+                  international assassins guild, and with a $14 million price
                   tag on his head, he is the target of hit men and women
                   everywhere.
                 </p>
