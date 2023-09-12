@@ -1,4 +1,4 @@
-import Logo from "./assets/LogoBlackText.svg";
+import LogoBlack from "./assets/LogoBlackText.svg";
 import Home from "./assets/Home.svg";
 import Movies from "./assets/Movies.svg";
 import Tv from "./assets/Tv.svg";
@@ -19,7 +19,7 @@ export default function MovieDetails() {
           <div className='col-span-2 h-screen'>
             <div className='side sticky top-0  border-r-[#000000] border-r rounded-r-[45px] lg:flex flex-col space-y-16 items-center pb-4 pt-2 hidden'>
               <div className='mb-10 py-3'>
-                <img src={Logo} alt='Logo' />
+                <img src={LogoBlack} alt='Logo' />
               </div>
 
               <div className='grid grid-rows-4 gap gap-y-10'>
