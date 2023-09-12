@@ -1,7 +1,7 @@
 import LogoBlack from "./assets/LogoBlacktext.svg";
 import Home from "./assets/Home.svg";
 import Movies from "./assets/Movies.svg";
-import Tv from "./assets/Tv.svg";
+import Tv from "./assets/screen.svg";
 import Upcoming from "./assets/Calendar.svg";
 import Logout from "./assets/Logout.svg";
 import TopGunMovie from "./assets/topgunMovie.png";
@@ -122,8 +122,8 @@ export default function MovieDetails() {
                 <p className='font-normal text-[#333333] text-xl leading-[30px]'>
                   After thirty years, Maverick is still pushing the envelope as
                   a top naval aviator, but must confront ghosts of his past when
-                  he leads TOP GUN elite graduates on a mission that demands
-                  the ultimate sacrifice from those chosen to fly it.
+                  he leads TOP GUN elite graduates on a mission that demands the
+                  ultimate sacrifice from those chosen to fly it.
                 </p>
                 <p className='font-normal text-xl py-2 space-x-2 border-y border-[#E8E8E8] border-opacity-[20%]'>
                   <span className='text-[#333333]'>Director :</span>
