@@ -22,7 +22,7 @@ export default function MovieDetails() {
                 <img src={LogoBlack} alt='Logo' />
               </div>
 
-              <div className='grid grid-rows-4 gap gap-y-10'>
+              <div className='grid grid-rows-4 gap-y-10'>
                 <a
                   href=''
                   className='flex items-center space-x-2 text-[#666666] font-semibold text-xl'

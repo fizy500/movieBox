@@ -1,5 +1,5 @@
 import IMDB from "../assets/imdb.png";
-import RottenTomatoes from "../assets/rotten_Tomatoes.png";
+import RottenTomatoes from "../assets/rottenTomatoes.png";
 export default function Rating() {
   return (
     <div className='flex justify-between'>
@@ -14,3 +14,23 @@ export default function Rating() {
     </div>
   );
 }
+
+
+
+
+// import axios from 'axios';
+
+// const options = {
+//   method: 'GET',
+//   url: 'https://api.themoviedb.org/3/authentication',
+//   headers: {accept: 'application/json'}
+// };
+
+// axios
+//   .request(options)
+//   .then(function (response) {
+//     console.log(response.data);
+//   })
+//   .catch(function (error) {
+//     console.error(error);
+//   });
