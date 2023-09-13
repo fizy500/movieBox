@@ -1,5 +1,5 @@
 import IMDB from "../assets/imdb.png";
-import RottenTomatoes from "../assets/rottenTomatoes.png";
+import RottenTomatoes from "../assets/rottentomatoes.png";
 export default function Rating() {
   return (
     <div className='flex justify-between'>
